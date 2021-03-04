@@ -1,0 +1,20 @@
+
+
+.blend {
+    width: 100vw;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } 
+  
+  .blend img {
+    position: absolute;
+    width: 50%;
+    height: 70%;
+  }
+  
+  .blend h1 { 
+    font-size: 150px;
+    mix-blend-mode: overlay;
+  }
